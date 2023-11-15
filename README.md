@@ -1,5 +1,5 @@
 # Hintscribe :microphone: :speech_balloon:
-Real-Time System Audio Transcription and ChatGPT Integration<br><br>
+Real-Time System Audio Transcription and ChatGPT Integration<br><br> 
   <img src="images/hintscribe-interview1.gif" width="500" height="300">
 <br>
 ## :sparkles: Overview
