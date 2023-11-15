@@ -1,5 +1,6 @@
 # Hintscribe :microphone: :speech_balloon:
-Real-Time System Audio Transcription and ChatGPT Integration<br>
+Real-Time System Audio Transcription and ChatGPT Integration<br><br>
+  <img src="images/home.png" width="500" height="300">
 <br>
 ## :sparkles: Overview
 Hintscribe is a cutting-edge application designed to transcribe system audio in real-time. It enables users to interact with the transcribed text, leveraging ChatGPT for various tasks like answering questions, translating text, or crafting witty comments for social platforms.<br>
