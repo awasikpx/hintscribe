@@ -19,7 +19,7 @@ Seamless Experience: Watch as spoken words are instantly converted into text, al
 **Educational Aid**: Transcribe lectures or educational content for study and revision.<br><br>
 ## :arrow_down: Download
 Get the latest beta version of Hintscribe:<br><br>
-[Download Hintscribe v0.1.1 (Beta)](http://github.com/SlowPx/hintscribe/releases/tag/0.1.1)
+[Download Hintscribe (Beta)](http://github.com/SlowPx/hintscribe/releases)
 <br><br>
 Please note that this is a beta release and the application is still in production. We appreciate any feedback or suggestions for improvements as we continue to refine Hintscribe.<br><br>
 ## :warning: Important Notice About Application Trust
